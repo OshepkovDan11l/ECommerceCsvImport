@@ -1,0 +1,4 @@
+sku,name,description,price,currency,category_name,stock,image_url,is_active,brand,warranty_months,model_number
+2001,Смартфон Xiaomi Redmi Note 13,Смартфон 6.67 дюйма 8/256 ГБ,19990,RUB,Смартфоны,14,/images/phone.jpg,true,Xiaomi,12,Redmi Note 13
+2002,Планшет Samsung Galaxy Tab A9,Планшет 8.7 дюйма 4/64 ГБ,14990,RUB,Планшеты,6,/images/tablet.jpg,true,Samsung,12,SM-X110
+2003,Наушники Sony WH-CH520,Беспроводные накладные наушники,4990,RUB,Звук,20,/images/sony.jpg,true,Sony,12,WH-CH520
